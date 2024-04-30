@@ -6,7 +6,7 @@ LICENSE = "LGPLv2.1"
 LIC_FILES_CHKSUM += "file://../../LICENSE;md5=4fbd65380cdd255951079008b364516c"
 
 SRC_URI = "git://git@github.com/cklee94/tappas.git;protocol=https;branch=test"
-SRCREV = "0ab4b60933b3fed030c9d9c15f80d66c5002756c"
+SRCREV = "7eeb89e77c1f492a07392a0ab48450fc80387ec9"
 
 inherit hailotools-base
 
